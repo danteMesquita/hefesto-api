@@ -1,6 +1,6 @@
 # hefesto-backend
 
-Repositório para Armazenamento do Backend do TCC
+Repositório para armazenamento de template de backend com Graphql
 
 # Utilização
 
