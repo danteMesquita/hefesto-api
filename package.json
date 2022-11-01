@@ -18,7 +18,7 @@
     "@types/mongoose": "^5.3.26",
     "@types/node": "^11.13.4",
     "cross-env": "^5.2.0",
-    "gulp": "3.9.1",
+    "gulp": "4.0.2",
     "gulp-clean": "0.3.2",
     "gulp-typescript": "^5.0.1",
     "nodemon": "^1.18.11",
